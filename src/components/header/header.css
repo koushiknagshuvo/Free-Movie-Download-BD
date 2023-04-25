@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+}
+.header_left {
+  display: flex;
+  align-items: center;
+}
+.Logo_and_Nav {
+  display: flex;
+}
+.Logo_and_Nav img {
+  height: 55px;
+  width: auto;
+}
+.nav {
+  margin-left: 20px;
+}
